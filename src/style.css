@@ -183,7 +183,7 @@ body{
 }
 .categories p:hover{
     transition: 1s;
-    background-color:white;
+    background-color:whitesmoke;
     cursor: pointer;
     color:black;
     border: soild #A435F0 2px;
